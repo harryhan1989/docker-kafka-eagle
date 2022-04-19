@@ -2,6 +2,8 @@
 [Eagle for Apache Kafka](https://www.kafka-eagle.org/) for docker  
 EFAK is an easy and high-performance Kafka monitoring system.
 
+初次登陆账户密码：admin  123456
+
 ## Supported tags
 You can find the pre-built docker images [on dockerhub](https://hub.docker.com/r/nickzurich/kafka-eagle)  
 Supported tags are:
